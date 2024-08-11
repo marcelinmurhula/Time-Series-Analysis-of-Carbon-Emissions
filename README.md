@@ -1,7 +1,7 @@
 # Project Title: Time Series Analysis of Carbon Emissions
 
 ## Description
-This project aims to analyze carbon emissions data over time to identify trends, seasonal patterns, and anomalies. The analysis includes time series decomposition, correlation analysis, forecasting, clustering, and anomaly detection.
+This project was undertaken to practice and explore the power of Python in data science by analyzing carbon emissions data over time. The goal was to identify trends, seasonal patterns, and anomalies, as well as to develop forecasting models. The analysis includes time series decomposition, correlation analysis, forecasting, clustering, and anomaly detection. "Carbon emissions dataset" is the dataset used that came from Kaggle.
 
 ## Dataset
 The dataset used in this project includes monthly carbon emissions data measured in million metric tons. The data is sourced from [source name] and covers the period from [start date] to [end date]. 
